@@ -18,7 +18,7 @@ This file contains raw data from Raman microspectroscopy of single E. coli K-12 
 xx.mat 
 This is the wavenumber range (= 1015 wavenumbers as x-values) used for Raman microspectroscopy.
 
-How to perform Raman data processing and analysis:
+**How to perform Raman data processing and analysis:**
 
 1.	Upload the codes, library and test dataset to the MATLAB workspace.
 2.	Install the CVX toolbox in MATLAB. This is necessary to run linearfit.m.
