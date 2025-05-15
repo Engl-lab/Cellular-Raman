@@ -11,7 +11,6 @@ This code is used to deconvolute the cellular Raman spectrum by linear combinati
 
 **library.mat** 
 This dataset comprises a library of reference Raman spectra from 15 purified biomolecules.
-
 Column 1:Protein 2:RNA 3:GSH 4:DNA 5:ANP 6:Asp 7:Gln 8:UNP 9:GNP 10:Glc 11:Val 12:FBP 13:Glu 14:lipid 15:NAD.
 
 **test dataset.txt** 
