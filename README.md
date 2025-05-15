@@ -15,7 +15,7 @@ This dataset comprises a library of reference Raman spectra from purified biomol
 **test dataset.txt** 
 This file contains raw data from Raman microspectroscopy of single E. coli K-12 BW25113 cells collected via the WiRE 5.2 interface on an inVia™ confocal Raman microscope (Renishaw) using 1200l/mm (780/633) grating. This will generate an output with 1015 data points of Raman intensities per spectrum in the 4th column of a .txt file. 
 
-xx.mat 
+**xx.mat** 
 This is the wavenumber range (= 1015 wavenumbers as x-values) used for Raman microspectroscopy.
 
 **How to perform Raman data processing and analysis:**
