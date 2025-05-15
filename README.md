@@ -1,7 +1,7 @@
 # Cellular-Raman
 Codes for processing and analysis of Raman spectra from single cells collected via Raman microspectroscopy.
 
-Codes and datasets included:
+**Codes and datasets included:**
 
 linearbaseline.m 
 This code enables smoothing of the raw spectral data using a Savitzky-Golay filter as well as linear baseline subtraction of the background signal.
