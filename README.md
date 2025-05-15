@@ -10,7 +10,8 @@ This code enables smoothing of the raw spectral data using a Savitzky-Golay filt
 This code is used to deconvolute the cellular Raman spectrum by linear combination of reference Raman spectra from purified biomolecules via least squares solution.
 
 **library.mat** 
-This dataset comprises a library of reference Raman spectra from purified biomolecules.
+This dataset comprises a library of reference Raman spectra from 15 purified biomolecules.
+Column 1:Protein 2:RNA 3:GSH 4:DNA 5:ANP 6:Asp 7:Gln 8:UNP 9:GNP 10:Glc 11:Val 12:FBP 13:Glu 14:lipid 15:NAD.
 
 **test dataset.txt** 
 This file contains raw data from Raman microspectroscopy of single E. coli K-12 BW25113 cells collected via the WiRE 5.2 interface on an inVia™ confocal Raman microscope (Renishaw) using 1200l/mm (780/633) grating. This will generate an output with 1015 data points of Raman intensities per spectrum in the 4th column of a .txt file. 
